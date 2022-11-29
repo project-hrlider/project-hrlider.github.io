@@ -16,6 +16,6 @@
 }
 
 .nav__link {
-    @apply font-bold text-blue-700
+    @apply font-bold text-blue-700;
 }
 </style>
